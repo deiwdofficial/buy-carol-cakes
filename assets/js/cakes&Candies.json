@@ -1,0 +1,6 @@
+[
+    {"id": 1,"img": "media/cake03.jpg","name":"Bolo de Milho","description":"Simples e prático para qualquer ocasião feito das melhores espigas de milho","filling":[],"price":[16.00, 24.00, 35.00],"weight":[1, 2, 3]},
+    {"id": 2,"img": "media/cake04.jpg","name":"Chocolate Aliança","description":"Massa Preta, Recheio Duas Camadas (Sabor a Sua Escolha), Cobertura Morango","filling":["Quatro Leites", "Chocolate preto trufado"],"price":[34.00, 55.00, 75.50],"weight":[1, 2, 3]},
+    {"id": 3,"img": "media/cake02.jpg","name":"Privilégio Chocolate","description":"Massa Preta, Recheio três Camadas (Sabor a Sua Escolha), Cobertura Chantilly","filling":["Maracujá", "Morango", "Abacaxi", "Chocolate preto"],"price":[44.00, 60.50, 85.00],"weight":[1, 2, 3]},
+    {"id": 4,"img": "media/cake01.jpg","name":"Dois Amores","description":"Massa branca, Recheio uma camada (Sabor a Sua Escolha), Cobertura Chantilly e Morango","filling":["Chocolate Preto", "Morango", "Limão"],"price":[26.50, 40.00, 55.00],"weight":[1, 2, 3]}
+]
