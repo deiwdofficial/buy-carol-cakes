@@ -1,6 +1,6 @@
 # <h1 align="center">Buy - Carol Cakes</h1>
 <p align="center">Website created exclusively to practice Javascript</p>
-<h3 align="center">View website: <a href="https://deiwd.github.io/carol-cakes/">Carol Cakes</a></h3>
+<h3 align="center">View website: <a href="https://deiwd.github.io/buy-carol-cakes/">Carol Cakes</a></h3>
 
 <br/><br/>
 <b>How it works:</b>
