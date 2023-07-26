@@ -310,7 +310,7 @@ Weight:  ${el.weight}
 `
 
         let encode = encodeURI(wp)
-        whatsappUrl = `http://api.whatsapp.com/send?phone=5516997180881&text=${initial}%0A${encode}%0A${price_result}`
+        whatsappUrl = `http://api.whatsapp.com/send?phone=5516997224790&text=${initial}%0A${encode}%0A${price_result}`
 
         setTimeout(()=>window.open(whatsappUrl, "_blank"), 300)
     })
